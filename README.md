@@ -23,6 +23,10 @@ Ath, bæta esp32c3 við Arduino IDE, sjá t.d. [hér](https://dev.to/rafalozan0/
 
 Kóði byggður á [þessu](https://www.instructables.com/Web-Controlled-Desk-Lamp-With-XIAO-ESP32-C3/).
 
+## KiCad
+
+Rafrásin er búin til í KiCad, sjá `shifter` möppuna. 
+
 ## BOM
 
 |   Íhlutir |   Týpa    |   Fjöldi  |
