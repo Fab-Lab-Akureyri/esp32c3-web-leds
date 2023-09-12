@@ -13,6 +13,7 @@ Tengist WiFi og hægt að kveikja og slökkva á hverju LED-i fyrir sig í vefvi
 ![PCB layout](layout.jpg)
 ![Web interface](web.jpg)
 ![Board](board.jpg)
+Ath: Guli vírinn er útaf "prótótýpu", ekki skv teikningu =)
 
 ## Kóði
 
