@@ -2,8 +2,8 @@
 #include <bitset>
 
 // Replace with your network credentials
-const char *ssid = "";
-const char *password = "";
+const char *ssid = "Hotspot";
+const char *password = "Password";
 
 // LED pins
 #define clock D0
@@ -177,7 +177,7 @@ void loop(){
             client.println(".bottom-curve { display: flex; justify-content: left; } </style>");
 
             // Web Page Heading
-            client.println("<body><div><h1>\"J\" LED display</h1></div>");            
+            client.println("<body><h1>\"J\" LED display</h1>");            
             client.println("<div class=\"letter-j\">");
             // Top line of J
             client.println("<div class=\"top-line\">");
