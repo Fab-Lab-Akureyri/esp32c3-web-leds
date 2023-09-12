@@ -31,7 +31,7 @@ Rafrásin er búin til í KiCad, sjá `shifter` möppuna.
 
 |   Íhlutir |   Týpa    |   Fjöldi  |
 |   ---     |   ---     |   ---     |
-| [74HCT164N](https://www.digikey.com/en/products/detail/nxp-usa-inc/74hct164n-652/763124)              |   Stjakgesti  |   1   |
+| [74HCT164N](https://www.digikey.com/en/products/detail/nxp-usa-inc/74hct164n-652/763124)              |   Stjakgisti  |   1   |
 | [LED](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150120BS75000/4489933)         |   Viðnám      |   8   |
 | [0Ω](https://www.digikey.com/en/products/detail/yageo/RC1206FR-070RL/5698945)                         |   Viðnám      |   3   |
 | [100Ω](https://www.digikey.com/en/products/detail/yageo/RC1206FR-07100RL/728491)                      |   Viðnám      |   8   |
